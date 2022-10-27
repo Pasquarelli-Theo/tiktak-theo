@@ -1,0 +1,1 @@
+import{_ as e}from"./FormMontre.vue_vue_type_script_setup_true_lang.88b6d703.js";import{d as n,o as r,h as t}from"./index.9efe1ade.js";import"./Montreprofil.vue_vue_type_script_setup_true_lang.66a784b3.js";const p=n({__name:"[id]",props:{id:null},setup(o){return(a,i)=>(r(),t(e,{id:o.id},null,8,["id"]))}});export{p as default};
